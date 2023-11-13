@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-// import { RxCross2 } from "react-icons/ri";
 import './closeaccount.css';
 import { CancelIcon } from './Icons';
 

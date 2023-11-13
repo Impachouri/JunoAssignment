@@ -199,13 +199,6 @@ function Content() {
 
                 </div>
             </div>
-            {/* <div>
-                {tabs.map((tab) => (
-                    <div key={tab.id}>
-                        {activeTab === tab.id && <p>Content for {tab.label}</p>}
-                    </div>
-                ))}
-            </div> */}
             <div >
                 <Table headings={tabHeadings[activeTab]} data={tabData[activeTab]} />
             </div>
