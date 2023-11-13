@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0 ;
+}
+
+.app-container{
+  display: flex;
+}
+
+.text{
+  color: var(--content-secondary, #777676);
+  font-family: Lettera Text LL;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
